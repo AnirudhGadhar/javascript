@@ -17,5 +17,3 @@ functions
 */
 
 
-
-console.log()
